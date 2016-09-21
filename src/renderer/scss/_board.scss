@@ -1,0 +1,15 @@
+.board {
+  border: none;
+
+  .row {
+    .white-square {
+      display: inline-block;
+      border: none;
+    }
+
+    .black-square {
+      display: inline-block;
+      border: none;
+    }
+  }
+}
